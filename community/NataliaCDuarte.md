@@ -1,39 +1,44 @@
-# 👋 Olá! Eu sou Natália C. Duarte
+# Olá, eu sou Natália C Duarte! 👋
+
+Bem-vindo(a) ao meu perfil no GitHub! Sou uma entusiasta da tecnologia com experiência em **UX/UI**, **QA**, **testes manuais e automatizados**, e atualmente focada em **programação com Python** e **automações**. Estou em transição de carreira, dedicando-me integralmente aos estudos para me tornar uma profissional completa na área de tecnologia.
+
+Com um background sólido em **design de interfaces** e **garantia de qualidade de software**, estou ampliando meus conhecimentos em **desenvolvimento de software** e **automação de processos**. Acredito que a combinação das minhas habilidades técnicas, visão de UX/UI e experiência em QA pode agregar valor significativo a projetos inovadores.
+
+Atualmente, estou em busca de oportunidades onde eu possa aplicar meus conhecimentos acadêmicos e técnicos para contribuir com o crescimento da empresa, enquanto continuo a desenvolver minhas habilidades e aprender novas tecnologias. Se você está procurando alguém apaixonado por resolver problemas, criar soluções eficientes e entregar produtos de alta qualidade, vamos conversar! 😊
 
 ## 🚀 Sobre Mim
-Sou designer com mais de **15 anos** de experiência na criação web, atuando em agências de publicidade e atendendo grandes marcas do mercado. Minha expertise inclui **UX/UI Design**, **identidade visual** e **prototipação**, utilizando ferramentas como **Figma** 🎨 e **Adobe Creative Suite**.
+- 🌱 **Atualmente estudando**: Python, automação de testes com Selenium, SQL e metodologias ágeis.
+- 💡 **Interesses**: Desenvolvimento de software, qualidade de software (QA), automação de processos e design de interfaces (UI/UX).
+- 🛠️ **Ferramentas que utilizo**: Python, Selenium, SQL, Git, GitHub, Figma, Photoshop, Illustrator.
+- 📚 **Metodologias**: Conhecimento em Kanban e Scrum para gestão ágil de projetos.
+- 📫 **Como me encontrar**: [seu-email@exemplo.com]
 
-Atualmente, estou em transição de carreira para a área de **testes de software e automação** 🔍💻, explorando metodologias ágeis e técnicas avançadas de qualidade de software. Tenho experiência com:
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NataliaCDuarte)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:carturanduarte@gmail.com)
 
-✅ **Testes Manuais e Automatizados**
-✅ **Testes Funcionais e Não Funcionais**
-✅ **Testes Exploratório, Regressão e Smoke Testing**
-✅ **Testes de API com Postman** 🚀
-✅ **Automação de Testes com Selenium** 🕵️‍♂️
-✅ **BDD com Cucumber** 📜
+## Habilidades
 
-Meu interesse está em **programação com Python** 🐍, aplicando-o em **automação de testes, análise de dados e web scraping**. Também possuo conhecimentos em **SQL** 🗄️, essencial para validar dados e garantir a integridade das aplicações testadas.
-
----
-
-## 🛠️ Habilidades Técnicas
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Programação e Desenvolvimento
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### UX/UI e Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+### QA e Testes
+![Testes Manuais](https://img.shields.io/badge/Testes_Manuais-000?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Automação de Testes](https://img.shields.io/badge/Automação_de_Testes-000?style=for-the-badge&logo=robotframework&logoColor=white)
 
----
+### Ferramentas e Metodologias
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
+![Kanban](https://img.shields.io/badge/Kanban-000?style=for-the-badge&logo=trello&logoColor=0079BF)
+![Scrum](https://img.shields.io/badge/Scrum-000?style=for-the-badge&logo=scrumalliance&logoColor=009639)
 
-## 📬 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataliacduartesp/)
-[![Perfil DIO](https://img.shields.io/badge/DIO-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/carturanduarte)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carturanduarte@gmail.com)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/seu-perfil)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+seu-numero)
